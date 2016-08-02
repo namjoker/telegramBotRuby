@@ -1,6 +1,6 @@
 require 'telegram/bot'
 require 'open-uri'
-token = '231613241:AAFk3CUaP6NxsIOZHBeABlt-TEEsFSKOY6I'
+token = ''
 Telegram::Bot::Client.run(token) do |bot|
   dem = 0
   soTiNhan = 0
